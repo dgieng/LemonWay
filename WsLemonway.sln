@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WsLemonway", "..\..\WebSites\WsLemonway\", "{DDF647CF-F82A-4ECA-A907-08E91FE8A759}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64652"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WsLemonway\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64652\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64652"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WsLemonway\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64652\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64652"
+		SlnRelativePath = "..\..\WebSites\WsLemonway\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15E9FF8A-40FD-44E9-8404-2565813D1AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestLemonWay", "UnitTestLemonWay\UnitTestLemonWay.csproj", "{D21E9A62-AE05-48F2-B713-74BBB607269B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationLemonWay", "ConsoleApplicationLemonWay\ConsoleApplicationLemonWay.csproj", "{7DE18BC9-8A08-4CFD-902A-261499A14D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF647CF-F82A-4ECA-A907-08E91FE8A759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF647CF-F82A-4ECA-A907-08E91FE8A759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF647CF-F82A-4ECA-A907-08E91FE8A759}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF647CF-F82A-4ECA-A907-08E91FE8A759}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D21E9A62-AE05-48F2-B713-74BBB607269B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21E9A62-AE05-48F2-B713-74BBB607269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21E9A62-AE05-48F2-B713-74BBB607269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21E9A62-AE05-48F2-B713-74BBB607269B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE18BC9-8A08-4CFD-902A-261499A14D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE18BC9-8A08-4CFD-902A-261499A14D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE18BC9-8A08-4CFD-902A-261499A14D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE18BC9-8A08-4CFD-902A-261499A14D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

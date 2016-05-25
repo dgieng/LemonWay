@@ -1,0 +1,7 @@
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\bin\Debug\UnitTestLemonWay.dll.config
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\bin\Debug\UnitTestLemonWay.dll
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\bin\Debug\UnitTestLemonWay.pdb
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\obj\Debug\UnitTestLemonWay.csprojResolveAssemblyReference.cache
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\obj\Debug\UnitTestLemonWay.dll
+C:\Users\Maison\Documents\Visual Studio 2015\Projects\WsLemonway\UnitTestLemonWay\obj\Debug\UnitTestLemonWay.pdb
